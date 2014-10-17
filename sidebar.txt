@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cri:home|Door43 (cri)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cri|d43-cri repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cri/archive/master.zip|d43-cri.zip]]
+
+**Recent Changes**
+{{changes>ns = cri}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cri|Ethnologue data]]
+
